@@ -1,0 +1,16 @@
+Steps to use the project:
+
+1)This project will work on python 3.6.8. Install python 3.6.8
+
+2)To run the project you have to download following requirements:
+
+Move into project folder and run following commands:
+
+pip3 install -r requirement.txt
+pip install pillow
+
+3) To run the project type:
+
+py gui.py
+
+Then you will see UI first Add user then Authenticate.
